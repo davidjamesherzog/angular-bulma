@@ -1,6 +1,6 @@
 # angular-bulma
 
-This is example application demonstrating how to add and customize Bulma in an Angular project.
+This is an example application demonstrating how to add and customize Bulma in an Angular project.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
